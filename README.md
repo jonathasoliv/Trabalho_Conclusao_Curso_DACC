@@ -7,4 +7,6 @@
   2 - Realizado a verificação dos elementos faltantes, tratamento das variáveis categóricas, normalização dos dados e convertido as informações de true para 1 e false para 0. Após o devido tratamento foi gerado quatros planilhas atualizadas que estão no arquivo "ANO_normalizado_teste.csv". 
   
   3 - Próximo passo ... estudar uma maneira de gerar dados sintéticos, realizar os testes estátisticos e a validação cruzada. 
+
+  4 - Iniciado a implementação da geração de dados sintéticos com o Bootstrap através das planilhas que foram normalizadas após o passo da Normalização dos Dados (NOME_PLANILHA_normalizado.csv) 
  
