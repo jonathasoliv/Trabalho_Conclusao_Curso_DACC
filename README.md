@@ -11,4 +11,6 @@
   3.1 - Plotado o gráfico após a normalização dos dados. 
   
   4 - Iniciado a implementação da geração de dados sintéticos com o Bootstrap através das planilhas que foram normalizadas após o passo da Normalização dos Dados (NOME_PLANILHA_normalizado.csv). Plotado o Histograma com os dados sintéticos de cada ano normalizado.
+
+  4.1 - Iniciado os cálculos de estatísticas comparando os dados originais com as amostras Bootstraped. 
  
